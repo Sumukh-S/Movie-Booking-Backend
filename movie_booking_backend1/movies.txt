@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1734762259006,
+    "title": "Pushpa 2",
+    "releaseDate": "2024-12-10",
+    "duration": 200,
+    "genre": "Thriller"
+  },
+  {
+    "id": 1734762456389,
+    "title": "Pushpa 2",
+    "releaseDate": "2024-12-10",
+    "duration": 200,
+    "genre": "Thriller"
+  }
+]

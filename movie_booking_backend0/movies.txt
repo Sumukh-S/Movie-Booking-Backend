@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1734762764756,
+    "title": "Updated Movie Title",
+    "releaseDate": "2023-10-01",
+    "duration": 130,
+    "genre": "Adventure",
+    "popularity": 0
+  },
+  {
+    "id": 1734763085597,
+    "title": "Inception",
+    "releaseDate": "2010-07-16",
+    "duration": 148,
+    "genre": "Sci-Fi",
+    "popularity": 2
+  },
+  {
+    "id": 1734764532374,
+    "title": "kantara",
+    "releaseDate": "2022-07-16",
+    "duration": 120,
+    "genre": "Devotional",
+    "popularity": 0
+  }
+]
